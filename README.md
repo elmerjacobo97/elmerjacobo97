@@ -1,17 +1,13 @@
-<h1 align="center">Hola 👋, mi nombres es Elmer Jacobo</h1>
-<h3 align="center">Soy Desarrollador Web Frontend</h3>
+<h1 align="center">Hola 👋, mi nombre es Elmer Jacobo</h1>
+<h3 align="center">Desarrollador Web Frontend</h3>
 
-- 🌱 Actualmente estoy aprendiendo **HTML, CSS, SASS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind, MUI**
+- 🌱 Actualmente estoy aprendiendo: **HTML, CSS, SASS, TypeScript, JavaScript, React, Next.js, Node, Express, Bootstrap, Tailwind, MUI**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://elmerjacobo.com/](https://elmerjacobo.com/)
 
 - 💬 Pregúntame sobre **JavaScript, React, Next.js, Node, Express, MUI**
 
 - 📫 Contáctame **ejacobotiniano@gmail.com**
-
-- 📄 Mis Experiencias [Desarrollador Web con intereses en Diseño UI, REST API, Desarrollo Móvil y dispuesto a aprender nuevas tecnologías web del mercado. Llevo más de 2 años de trayectoria trabajando en desarrollo de aplicaciones web personales utilizando tecnologías más emergentes de la actualidad. Experiencia en proyectos JavaScript, Sass, REST API, maquetación HTML & CSS, optimización y despliegue a producción. Especialista en la solución óptima de problemas de software y trabajo en equipo, manteniendo siempre buenas prácticas de programación.](Desarrollador Web con intereses en Diseño UI, REST API, Desarrollo Móvil y dispuesto a aprender nuevas tecnologías web del mercado. Llevo más de 2 años de trayectoria trabajando en desarrollo de aplicaciones web personales utilizando tecnologías más emergentes de la actualidad. Experiencia en proyectos JavaScript, Sass, REST API, maquetación HTML & CSS, optimización y despliegue a producción. Especialista en la solución óptima de problemas de software y trabajo en equipo, manteniendo siempre buenas prácticas de programación.)
-
-- ⚡ Fun fact **Responsable, solución de problemas, organizado.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
