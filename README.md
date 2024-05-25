@@ -13,7 +13,7 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 **BIO**
 
 - 🧑‍🚀 Self-taught software developer with a relentless passion for learning.
-- 🧰 Favorite dev stack: `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`, `Vercel`
+- 🧰 Favorite dev stack: `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
 - 🇲🇽 Currently working at ABEHA, contributing to various exciting projects.
 
 ---
@@ -25,7 +25,6 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -47,20 +46,8 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 
 Here are a few highlights of my recent work:
 
-- 📝 [Project 1](https://github.com/yourusername/project1): Description of your project 1.
-- 🚀 [Project 2](https://github.com/yourusername/project2): Description of your project 2.
-- 🌐 [Project 3](https://github.com/yourusername/project3): Description of your project 3.
-
+- 📝 [Pokemon Static](https://pokemons-next.vercel.app/): Explora el maravilloso mundo de los Pokemons con Pokemon Static.
+- 🚀 [BebidaSearcher]([https://github.com/yourusername/project2](https://buscador-bebidas-beta.vercel.app/)): BebidaSearcher es un buscador de bebidas que te permite encontrar tus bebidas favoritas filtrando por ingredientes.
 ---
 
-**BLOG**
-
-I also enjoy writing about technology and sharing my knowledge with the community. Check out some of my recent posts:
-
-- [How to Build a Full-Stack App with Next.js and Prisma](https://yourblog.com/post1)
-- [Top 10 Tips for Mastering Tailwind CSS](https://yourblog.com/post2)
-- [The Ultimate Guide to MongoDB for Beginners](https://yourblog.com/post3)
-
----
-
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech! 😊
+Don't hesitate to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology! 😊
