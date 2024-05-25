@@ -47,7 +47,7 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 Here are a few highlights of my recent work:
 
 - 📝 [Pokemon Static](https://pokemons-next.vercel.app/): Explora el maravilloso mundo de los Pokemons con Pokemon Static.
-- 🚀 [BebidaSearcher]([https://github.com/yourusername/project2](https://buscador-bebidas-beta.vercel.app/)): BebidaSearcher es un buscador de bebidas que te permite encontrar tus bebidas favoritas filtrando por ingredientes.
+- 🚀 [BebidaSearcher](https://buscador-bebidas-beta.vercel.app/): BebidaSearcher es un buscador de bebidas que te permite encontrar tus bebidas favoritas filtrando por ingredientes.
 ---
 
 Don't hesitate to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology! 😊
