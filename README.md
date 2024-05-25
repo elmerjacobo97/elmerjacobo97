@@ -13,13 +13,14 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 **BIO**
 
 - 🧑‍🚀 Self-taught software developer with a relentless passion for learning.
-- 🧰 Favorite dev stack: `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
+- 🧰 Favorite dev stack: `React Native`, `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
 - 🇲🇽 Currently working at ABEHA, contributing to various exciting projects.
 
 ---
 
 **TECH STACK**
 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Prisma](https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white)
