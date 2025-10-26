@@ -1,17 +1,14 @@
 # Hey there! 👋
-
 I'm a passionate full-stack software developer based in Trujillo, Peru, currently working for ABEHA, a company based in Mexico. I love creating and contributing to open-source projects, building digital and web products, and always looking for new remote opportunities to expand my skill set.
 
 ---
 
 **NOW**
-
 - 🔎 Looking for remote opportunities.
 - ✨ Contributing to open-source projects.
 - ⚒️ Building innovative digital and web products.
 
 **BIO**
-
 - 🧑‍🚀 Self-taught software developer with a relentless passion for learning.
 - 🧰 Favorite dev stack: `React Native`, `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
 - 🇲🇽 Currently working at ABEHA, contributing to various exciting projects.
@@ -33,7 +30,6 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-
 ---
 
 **SOCIALS**
@@ -43,12 +39,13 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 
 ---
 
-**PROJECTS**
+**PROYECTOS**
 
-Here are a few highlights of my recent work:
+Destacados de mi trabajo reciente:
 
-- 📝 [Pokemon Static](https://pokemons-next.vercel.app/): Explora el maravilloso mundo de los Pokemons con Pokemon Static.
-- 🚀 [BebidaSearcher](https://buscador-bebidas-beta.vercel.app/): BebidaSearcher es un buscador de bebidas que te permite encontrar tus bebidas favoritas filtrando por ingredientes.
+- 💳 [Tarjetly](https://tarjetly.com/): Aplicación web para administración de tarjetas de presentación digital y contactos empresariales.
+- 💧 [Sismol](https://sismol.c2e.mx/): Administrador de captación y gestión de agua para uso empresarial.
+
 ---
 
 Don't hesitate to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology! 😊
