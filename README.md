@@ -1,21 +1,24 @@
-# Hey there! 👋
-I'm a passionate full-stack software developer based in Trujillo, Peru, currently working for ABEHA, a company based in Mexico. I love creating and contributing to open-source projects, building digital and web products, and always looking for new remote opportunities to expand my skill set.
+# ¡Hola! 👋
+
+Soy un desarrollador de software full-stack apasionado, ubicado en Trujillo, Perú, actualmente trabajando para ABEHA, una empresa con sede en México. Me encanta crear y contribuir a proyectos de código abierto, desarrollar productos digitales y web, y siempre estoy buscando nuevas oportunidades remotas para expandir mis habilidades.
 
 ---
 
-**NOW**
-- 🔎 Looking for remote opportunities.
-- ✨ Contributing to open-source projects.
-- ⚒️ Building innovative digital and web products.
+**AHORA**
 
-**BIO**
-- 🧑‍🚀 Self-taught software developer with a relentless passion for learning.
-- 🧰 Favorite dev stack: `React Native`, `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
-- 🇲🇽 Currently working at ABEHA, contributing to various exciting projects.
+- 🔎 Buscando oportunidades remotas.
+- ✨ Contribuyendo a proyectos de código abierto.
+- ⚒️ Construyendo productos digitales y web innovadores.
+
+**BIOGRAFÍA**
+
+- 🧑‍🚀 Desarrollador de software autodidacta con una pasión incansable por aprender.
+- 🧰 Stack de desarrollo favorito: `React Native`, `Next.js`, `React`, `Prisma`, `MongoDB`, `Tailwind CSS`
+- 🇲🇽 Actualmente trabajando en ABEHA, contribuyendo a varios proyectos emocionantes.
 
 ---
 
-**TECH STACK**
+**TECNOLOGÍAS**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
@@ -32,7 +35,7 @@ I'm a passionate full-stack software developer based in Trujillo, Peru, currentl
 
 ---
 
-**SOCIALS**
+**REDES SOCIALES**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ejacobotiniano)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Elmjac1810)
@@ -48,4 +51,4 @@ Destacados de mi trabajo reciente:
 
 ---
 
-Don't hesitate to reach out if you want to collaborate on a project, need help with something, or just want to chat about technology! 😊
+¡No dudes en contactarme si quieres colaborar en un proyecto, necesitas ayuda con algo, o simplemente quieres hablar sobre tecnología! 😊
