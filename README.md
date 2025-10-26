@@ -45,8 +45,8 @@ I am a Full Stack Developer focused on building scalable digital products with o
 
 Highlighted recent work:
 
-- 💳 [Tarjetly](https://tarjetly.com/) — A web application for managing digital business cards and enterprise contacts.
-- 💧 [Sismol](https://sismol.c2e.mx/) — System for managing water capture and distribution for industrial use.
+- [Tarjetly](https://tarjetly.com/) — A web application for managing digital business cards and enterprise contacts.
+- [Sismol](https://sismol.c2e.mx/) — System for managing water capture and distribution for industrial use.
 
 ---
 
