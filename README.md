@@ -1,6 +1,6 @@
 # Hi! 👋
 
-I am a Full Stack Developer focused on building scalable digital products with outstanding user experiences. I currently work at [ABEHA](https://abeha.mx) (Mexico), contributing to both frontend and backend development across multiple applications. I enjoy learning new technologies, contributing to open-source, and collaborating remotely with global teams.
+I'm a Full Stack Developer focused on building scalable digital products with outstanding user experiences. I currently work at [ABEHA](https://abeha.mx) (Mexico), contributing to both frontend and backend development across multiple applications. I enjoy learning new technologies, contributing to open-source, and collaborating remotely with global teams.
 
 ---
 
